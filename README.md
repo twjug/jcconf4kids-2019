@@ -12,9 +12,7 @@
 
 # Workshop agenda
 
-    Learn math
-
-    ematics (addition, multiplication, substraction and division).
+    Learn mathematics (addition, multiplication, substraction and division).
     Basic geometry shapes (triangle, square, circle).
     Learn symbols
     Learn functions.
